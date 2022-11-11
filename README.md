@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/n957uw3tjaddx6yk?svg=true)](https://ci.appveyor.com/project/ajoq/ahj-homeworks-5-forms-5-1)
 
-https://ajoq.github.io/ahj-homeworks_5-forms_5.1.git/
+https://ajoq.github.io/ahj-homeworks_5-forms_5.1/
 
 ### Popovers
 
